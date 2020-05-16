@@ -1,2 +1,2 @@
-# data
+# Data
 Repository of data files
